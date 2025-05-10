@@ -41,4 +41,9 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 
+extra:
+  analytics:
+    provider: google
+    property: G-S46EJWNZZQ
+
 
