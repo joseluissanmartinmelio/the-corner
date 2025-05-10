@@ -1,5 +1,7 @@
 # Hola!
 
+<img src="assets/Foto_jose.jpg" alt="Foto de José San Martín" style="float: right; width: 300px; margin-left: 20px; border-radius: 10px;" />
+
 Soy José Luis San Martín Melio. Me dedico al análisis de datos y tengo un particular interés por la econometría y los métodos computacionales aplicados a las ciencias sociales. A lo largo de mi formación y experiencia profesional, siempre me ha motivado entender los problemas sociales con el respaldo de datos y evidencia, buscando reunir toda la información posible para abordarlos con mayor claridad.
 
 En cuanto a mi formación, soy Licenciado en Estudios Internacionales y actualmente me encuentro realizando mi tesis para el grado de Magíster en Ciencia de Datos. Ambos programas los he cursado en la Universidad de Santiago de Chile, en los departamentos de Estudios Políticos y de Economía y Administración, respectivamente.
