@@ -29,6 +29,7 @@
 ## Publicaciones y ponencias
 
 1. Libro Transparencia en las regiones de Chile
-2. [Criterios éticos para revisar investigaciones en Ciencias Sociales. Sistematización de una experiencia](https://doi.org/10.5944/empiria.54.2022.33739). *Scopus*
+2. [Criterios éticos para revisar investigaciones en Ciencias Sociales. Sistematización de una experiencia](https://doi.org/10.5944/empiria.54.2022.33739). *Scopus*, *ESCI(WOS)*
+2. [Criterios éticos para revisar investigaciones en Ciencias Sociales. Sistematización de una experiencia](https://doi.org/10.5944/empiria.54.2022.33739). *Scopus*, *ESCI(WOS)*
 3. [Exposición en el XIV Congreso Chileno de Ciencia Política 2023 con la ponencia "Modelado de tópicos en la prensa de elecciones nacionales y municipales 2012-2024"](https://drive.google.com/file/d/1tV-8E32lwpJcm2QlXcpiLlZHeUUoAsZb/view?usp=sharing)
 4. [Exposición en el V Congreso Internacional del Instituto Complutense de Ciencia de la Administración 2024 con la ponencia (junto a Nelson Paulus Santibáñez) "La distinción opacidad/transparencia como dispositivo semántico para observar la corrupción"](https://drive.google.com/file/d/1AyjQLylEK4TtIAxK8hI5SQD2utnSVol8/view?usp=sharing)
