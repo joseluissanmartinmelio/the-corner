@@ -21,10 +21,10 @@
 ## Educación (Universitaria + cursos)
 > Tesista de postgrado
 
-1. Marzo 2024 - marzo 2026: [*Magister Ciencia de Datos USACH. En etapa de realización de tesis*](https://mcd.usach.cl/)
-2. Enero 2025 - enero 2025: [*Escuela de verano en ciencias sociales de la complejidad social*](https://drive.google.com/file/d/1EepOlyH1xWxN6RcD_Oh6ny05jCXy7rnW/view?usp=sharing)
-3. Marzo 2016 - marzo 2021: [*Analista en políticas y asuntos internacionales, Estudios internacionales, USACH*](https://fahu.usach.cl/carrera/licenciatura-en-estudios-interncionales/)
-4. Junio 2023 - julio 2023: [*Curso evaluado de análisis de datos cuantitativos y espaciales en R, con Rstudio, Universidad de Chile*](https://fau.uchile.cl/cursos/175985/curso-en-analisis-de-datos-socioespacial-con-r)
+1. Marzo 2024 - marzo 2026: [*Magister Ciencia de Datos. En etapa de realización de tesis. Universidad de Santiago de Chile*](https://mcd.usach.cl/)
+2. Enero 2025 - enero 2025: [*Escuela de verano en ciencias sociales de la complejidad social. Universidad del Desarrollo*](https://drive.google.com/file/d/1EepOlyH1xWxN6RcD_Oh6ny05jCXy7rnW/view?usp=sharing)
+3. Marzo 2016 - marzo 2021: [*Analista en políticas y asuntos internacionales, Estudios internacionales. Universidad de Santiago de Chile*](https://fahu.usach.cl/carrera/licenciatura-en-estudios-interncionales/)
+4. Junio 2023 - julio 2023: [*Curso evaluado de análisis de datos cuantitativos y espaciales en R, con Rstudio. Universidad de Chile*](https://fau.uchile.cl/cursos/175985/curso-en-analisis-de-datos-socioespacial-con-r)
 
 
 ## Publicaciones y ponencias
