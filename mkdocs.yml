@@ -5,6 +5,7 @@ site_author: "José San Martín"
 nav:
   - Inicio: index.md
   - Curriculum: curriculum.md
+  - Proyectos: projects.md
 
 theme:
   name: material
