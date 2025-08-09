@@ -3,6 +3,7 @@ name: Deploy MkDocs to GitHub Pages
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:  # Permite ejecutar manualmente
 
 permissions:
   contents: read
