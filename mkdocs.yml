@@ -1,0 +1,50 @@
+site_name: "José San Martín"
+site_url: http://www.jose-sanmartin.com
+site_author: "José San Martín"
+
+nav:
+  - Inicio: index.md
+  - Curriculum: curriculum.md
+  - Proyectos: projects.md
+
+theme:
+  name: material
+  language: es        # interfaz en castellano
+  font:               # tipografía limpia y profesional
+    text: Inter       # Google Font cargada automáticamente por el tema
+    code: JetBrains Mono
+  palette:
+    # ——— Esquema claro (por defecto) ———
+    - scheme: default           # nombre interno
+      primary: blue grey        # azul-gris sobrio
+      accent: light blue        # matiz para enlaces, botones y resaltes
+      toggle:
+        icon: material/weather-night   # icono del switch
+        name: Cambiar a modo oscuro
+    # ——— Esquema oscuro ———
+    - scheme: slate             # paleta oscura integrada
+      primary: blue grey
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:            # extras ya incluidos en el core (sin CSS propio)
+    - navigation.instant        # carga rápida de páginas
+    - navigation.tracking       # URL limpias para subsecciones
+    - content.code.copy         # botón “copiar código”
+    - content.code.annotate     # nº de línea al pasar el ratón
+    - search.highlight          # resalta coincidencias en la búsqueda
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.superfences        # bloques de código mejorados
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  analytics:
+    provider: google
+    property: G-S46EJWNZZQ
+
+
